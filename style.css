@@ -1,0 +1,9 @@
+.item-bg{
+    background-image: url(오렌지주스.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-position: 200px 200px;
+    background-size: 200px;
+    margin: 0mm;
+}
+
